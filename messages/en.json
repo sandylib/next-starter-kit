@@ -1,0 +1,72 @@
+{
+  "common": {
+    "title": "Next Starter Kit",
+    "description": "A Next.js starter template demonstrating Domains + Features + Core architecture"
+  },
+  "nav": {
+    "appName": "Starter Kit",
+    "home": "Home",
+    "products": "Products",
+    "contact": "Contact"
+  },
+  "home": {
+    "title": "Welcome to the Next Starter Kit",
+    "subtitle": "A production-ready template built with Next.js 16, React 19, and shadcn/ui. Demonstrates the Domains + Features + Core layered architecture pattern.",
+    "gettingStarted": "Getting Started",
+    "steps": {
+      "explore": "Browse the Products page to see the shopping cart demo.",
+      "features": "Check out the Contact page for a form example with validation.",
+      "build": "Create new features under src/features/ and add routes under src/app/."
+    },
+    "resources": "Resources",
+    "links": {
+      "nextjs": "Next.js Documentation",
+      "shadcn": "shadcn/ui Components",
+      "nextIntl": "next-intl Documentation"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "description": "Have a question or feedback? Send us a message."
+  },
+  "form": {
+    "title": "Send a Message",
+    "helpText": "All fields marked with * are required.",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "subject": "Subject",
+    "subjectPlaceholder": "Select a subject",
+    "subjects": {
+      "general": "General Enquiry",
+      "support": "Technical Support",
+      "feedback": "Feedback",
+      "bug": "Bug Report"
+    },
+    "message": "Message",
+    "messagePlaceholder": "How can we help you?",
+    "messageHint": "Minimum 10 characters.",
+    "subscribe": "Subscribe to our newsletter for updates",
+    "submit": "Send Message",
+    "successMessage": "Your message has been sent successfully!"
+  },
+  "products": {
+    "title": "Products",
+    "subtitle": "Browse our collection and add items to your cart.",
+    "addToCart": "Add to Cart",
+    "inStock": "In Stock",
+    "outOfStock": "Out of Stock",
+    "loading": "Loading products..."
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "empty": "Your cart is empty",
+    "emptyDescription": "Browse products and add items to get started.",
+    "subtotal": "Subtotal",
+    "items": "items",
+    "item": "item",
+    "checkout": "Checkout",
+    "clearCart": "Clear Cart",
+    "remove": "Remove"
+  }
+}
